@@ -8,6 +8,10 @@
     background-color: greenyellow;
 }
 
+.row.2 {
+    padding: 10px;
+}
+
 .txt {
     color: #fff;
     display: flex;
