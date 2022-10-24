@@ -1,19 +1,21 @@
 [class*="col"] {
-    background-color: brown;
+    background-color: #006cfa;
     border: solid 1px #fff;
     min-height: 100px;
 }
 
 .green {
-    background-color: greenyellow;
+    background-color: #00e265;
 }
 
-.row.2 {
+.row.nested {
     padding: 10px;
 }
 
 .txt {
     color: #fff;
+    height: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
