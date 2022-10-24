@@ -1,0 +1,5 @@
+[class*="col"] {
+    background-color: brown;
+    border: solid 1px black;
+    min-height: 100px;
+}
