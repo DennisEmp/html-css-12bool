@@ -1,5 +1,15 @@
 [class*="col"] {
     background-color: brown;
-    border: solid 1px black;
+    border: solid 1px #fff;
     min-height: 100px;
+}
+
+.green {
+    background-color: greenyellow;
+}
+
+.txt {
+    color: #fff;
+    display: flex;
+    justify-content: center;
 }
